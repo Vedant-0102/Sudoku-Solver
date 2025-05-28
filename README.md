@@ -16,10 +16,10 @@ Here are the top 5 standout features of your Sudoku app:
 ## Screenshots
 
 ### Landing Page:
-![Landing Page](
+![Landing Page](https://github.com/user-attachments/assets/5f5d3699-f5bf-41e6-881e-a13a4aade4e7)
 
 ### Features:
-![Solver](
+![Solver](https://github.com/user-attachments/assets/5135f717-0aef-445e-aacb-4cdda5ff4355)
 
 ## Installation & Setup
 
