@@ -249,7 +249,7 @@ function App() {
     <div className="app">
       <div className="container">
         <h1 className="title">Sudoku Solver</h1>
-        <p className="subtitle">Enter numbers in the grid and click solve to see the magic!</p>
+        <p className="subtitle">Enter numbers in the grid and Click Solve</p>
         
         {errorMessage && (
           <div className="error-message">
