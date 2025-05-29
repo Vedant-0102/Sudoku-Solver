@@ -4,8 +4,6 @@ An interactive web-based Sudoku puzzle solver built with React and Vite. The app
 
 ## Features
 
-Here are the top 5 standout features of your Sudoku app:
-
 1. **Interactive 9×9 Grid** – Real-time input validation, mobile-friendly, and clear distinction between user inputs and solved cells.
 2. **Smart Solver** – Visual step-by-step solving using a backtracking algorithm.
 3. **Puzzle Generator** – Creates solvable, unique puzzles with adjustable difficulty.
